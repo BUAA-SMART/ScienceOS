@@ -1,2 +1,2 @@
 # ScienceOS
-Scientific Operrating System
+Scientific Operating System
